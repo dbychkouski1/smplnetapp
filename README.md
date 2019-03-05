@@ -1,6 +1,6 @@
 # .NET Sample App
 
-Push the app with no-start:
+Push the app with no-sta1rt:
 ```
 cf push environment -s windows2012R2 -b hwc_buildpack --no-start -p ./ViewEnvironment/
 ```
