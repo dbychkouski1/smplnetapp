@@ -24,7 +24,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h3>Welcome to MY TEST WEBSITE</h3>
+            <h3>Welcome1 to MY TEST WEBSITE</h3>
             <hr/>
         </div>
 
